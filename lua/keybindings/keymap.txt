@@ -1,0 +1,143 @@
+----   ╭────────────────────────────────╮
+----   │ J                              │
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⠤⠤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  │
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠁⣠⣶⣶⠞⠃⢠⣹⣷⠀⠀⠀⠀⠀⠀  │
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⣼⣿⣿⠃⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀  │
+----   │ ⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⢸⠀⠀⠀⣿⣿⣿⡀⠀⣀⡠⠤⠤⢤⣀⠀⠀⠀⠀  │
+----   │ ⠀⠀⢀⣾⣿⣿⠿⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⡷⠊⠀⠀⠀⠀⣀⠀⠙⢆⠀⠀  │     ____  __    ___  ____  __    ____  ____  ____ 
+----   │ ⠀⠀⣾⡟⢁⣀⡀⠀⠈⠻⣿⠀⠀⠀⢹⣿⣿⠁⠀⠀⣠⣾⣿⣿⣿⣷⡌⡆⠀  │    (  __)/ _\  / __)(  __)(  )  (  __)/ ___)/ ___)
+----   │ ⠀⠀⢻⡵⠁⠀⠈⢢⠀⠀⢹⡆⠀⢀⣀⣻⣇⣀⣀⣰⣿⣿⡿⠋⠁⠈⢻⠇⠀  │     ) _)/    \( (__  ) _) / (_/\ ) _) \___ \\___ \
+----   │ ⠀⠀⠈⠥⣄⠀⠀⠀⣇⣴⠶⠿⠛⠛⠉⠉⠉⠙⠛⠛⠻⢿⠀⠀⠀⢀⠐⣤⠀  │    (__) \_/\_/ \___)(____)\____/(____)(____/(____/
+----   │  ⠀⠘⠿⠟⠀⠀⠀⡟⠁⠀⠀⠀⠀⠀⠀⠰⡄⢀⣀⠀⣼⠀⠀⠀⠘⠿⠟⠀  │            __  ____  ____  ____  ____  ____ 
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⣷⣀⣇⠀⠀⠀⢀⣠⣴⣷⠟⠁⠀⣿⠀⠀⠀⠀⠀⠀⠀  │          _(  )(  __)/ ___)(_  _)(  __)(  _ \
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠈⣏⢻⠛⠃⠀⠀⠉⠉⠹⡄⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀  │         / \) \ ) _) \___ \  )(   ) _)  )   /
+----   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠁⠀⠺⠂   ⠁⠀⢀⡟⠀⠀⠀ ⠀⠀⠀  │         \____/(____)(____/ (__) (____)(__\_)
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢦⡀ ⠺⠂  ⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀  │
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠺⠂⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀  │
+----   │ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  │
+----   │                                │
+----   │                              J │
+----   ╰────────────────────────────────╯
+----
+---------------------------------------------------------------------------------------------------
+---- Buffers
+LDR-bm #buffer manager
+LDR-bt #telescope buffers
+LDR-bf #Fzf buffers
+
+---- Diagnostics
+LDR-dt todo list
+LDR-ds symbols
+LDR-dg definit/refer/...
+LDR-dd diagnost
+LDR-dD diagnost buf
+LDR-dc cur cursor
+LDR-dl loclist
+LDR-dq qflist
+
+---- Exploers
+LDR-o oil
+
+---- GIT
+
+
+---- LSP
+LDR-pd go to definition
+LDR-pD go to declaration
+LDR-pt go to type definition
+LDR-pi go to implementation
+LDR-pr go to references
+LDR-pc go to close all
+
+LDR-ld diagnostics cursor
+LDR-la actions
+LDR-lA actions preview
+LDR-lr rename
+LDR-lt type definition
+LDR-li implementation
+LDR-lh documentation
+
+LDR-ll lint
+
+---- Motion
+LDR-f leap
+LDR-F leap-from-window
+
+LDR-hm harpoon menu
+LDR-ha harpoon add
+LDR-ht harpoon telescope
+LDR-h1 harpoon 1  item
+LDR-h2 harpoon 2  item
+LDR-h3 harpoon 3  item
+LDR-h4 harpoon 4  item
+LDR-h5 harpoon 5  item
+LDR-h6 harpoon 6  item
+LDR-h7 harpoon 7  item
+LDR-h8 harpoon 8  item
+LDR-h9 harpoon 9  item
+LDR-h0 harpoon 10 item
+
+---- IRON
+LDR-ir iron toggle repl
+LDR-iR iron restart repl
+LDR-iv iron send visual
+LDR-il iron send line
+LDR-ip iron send paragraph
+LDR-iQ iron interrupt
+LDR-iq iron quit
+LDR-ic iron clear
+
+---- Others
+
+
+---- Pretty
+LDR-pz zen mode
+LDR-pt twilight
+
+---- Projects
+LDR-wa workspace add
+LDR-wd workspace remove
+LDR-wl telescope workspaces
+
+---- Search
+LDR-Sf fzf files
+LDR-Sg fzf grep in cur buf
+LDR-SG fzf grep in project
+LDR-Sb fzf buffers
+
+LDR-ss telescope search
+LDR-sf telescope find files
+LDR-sl telescope live grep
+LDR-sb telescope buffers
+LDR-st telescope todo
+
+---- UI
+C-t toggle term
+
+LDR-ud dropbar
+
+LDR-um messages
+LDR-ut telescope
+LDR-ue errors
+LDR-ud dismiss
+
+---- Writing
+ALT-h move left  (mini)
+ALT-j move down  (mini)
+ALT-k move up    (mini)
+ALT-l move right (mini)
+
+
+ga align (mini)
+gA align (mini)
+
+gCB CB catalog
+
+jk better escape
+
+LDR-Cp CCC pick
+LDR-Cc CCC convert
+
+LDR-G neogen
+LDR-j tree sj
+
